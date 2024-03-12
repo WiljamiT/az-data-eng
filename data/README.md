@@ -91,3 +91,9 @@ Each .csv file is used in Azure Data Factory.
 }
 ```
 
+Validate
+Debug
+
+after that raw-data is completed
+![raw-data-files](/img/data.PNG)
+
